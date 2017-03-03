@@ -1,6 +1,6 @@
-node_modules/
+#node_modules/
 bower_components/
-lib/
+#lib/
 docs/
 *.idea
 *.sublime-workspace
